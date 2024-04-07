@@ -36,15 +36,14 @@ body{
 .title{
     display: flex;
     justify-content: center;
+    text-decoration-line: underline;
 }
 .products{
     margin: 20px;
-    text-decoration-line: underline;
 }
 .card-container{
     position: relative;
     display: flex;
-    /* justify-content: center; */
     gap: 5%;
     flex-wrap: wrap;
     margin-top: 100px;
